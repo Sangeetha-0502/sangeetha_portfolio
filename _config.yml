@@ -1,4 +1,5 @@
 title: Sangeetha
 logo: /assets/icon.jpg
 description: "A developer building solutions that matter."
+show_downloads: false
 theme: jekyll-theme-minimal
