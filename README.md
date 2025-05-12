@@ -1,14 +1,14 @@
 # SOFWARE DEVELOPMENT ENTHUSIASIST 
 
-# About Me
+# ABOUT ME
 I'm a multidisciplinary thinker, a curious coder, and a passionate problem solver. I thrive on exploring new technologies and bringing creative solutions to life through software. When I’m not writing code, you’ll find me spending time with friends, capturing the world, or learning something new to expand my skill set.
 
-## Education
-Bachelor of Engineering in Computer Science and Engineering - Mahendra Institute of Technology, Namakkal|2021-2025.
-CGPA : 8.86
-Relavant Courseworks : Data Base Management System, Object Oriented Programming, Computer Networks, Data Structures and Algorithms.
+## EDUCATION 
+- Bachelor of Engineering in Computer Science and Engineering - Mahendra Institute of Technology, Namakkal|2021-2025.
+- CGPA : 8.86
+- Relavant Courseworks : Data Base Management System, Object Oriented Programming, Computer Networks, Data Structures and Algorithms.
 
-#### Technical Skills: Java, Spring Boot, SQL, HTML, CSS, JavaScript.
+#### TECHNICAL SKILLS: Java, Spring Boot, SQL, HTML, CSS, JavaScript.
 
 ## PROJECTS
 ### FULLSTACK EMPLOYEE MANAGEMENT SYSTEM
@@ -35,7 +35,12 @@ Relavant Courseworks : Data Base Management System, Object Oriented Programming,
  - Java FullStack Development - Wipro Talent Next.
  - Web Development - TeachNook.
 
- ## Links
+ ## SOFT SKILLS 
+ - Communication
+ - Problem solving
+ - Time Management
+
+ ## LINKS
  - [GitHub](https://github.com/Sangeetha-0502)
  - [LinkedIn](https://www.linkedin.com/in/sangeetha05/)
  - [Leetcode](https://leetcode.com/u/psangeetha052/)
