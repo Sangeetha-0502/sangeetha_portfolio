@@ -9,7 +9,9 @@ I'm a multidisciplinary thinker, a curious coder, and a passionate problem solve
 - Relavant Courseworks : Data Base Management System, Object Oriented Programming, Computer Networks, Data Structures and Algorithms.
 
 #### TECHNICAL SKILLS
-Java, Spring Boot, SQL, HTML, CSS, JavaScript.
+- Languages: Java, SQL, JavaScript.
+- Technologies/Framework: HTML5, CSS3, Spring Boot.
+- Developer Tools: VS Code, Eclipse, MySQL, Git and GitHub.
 
 ### PROJECTS
 #### FULLSTACK EMPLOYEE MANAGEMENT SYSTEM
