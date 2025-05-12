@@ -9,29 +9,28 @@ I'm a multidisciplinary thinker, a curious coder, and a passionate problem solve
 - Relavant Courseworks : Data Base Management System, Object Oriented Programming, Computer Networks, Data Structures and Algorithms.
 
 #### TECHNICAL SKILLS
-- Languages: Java, SQL, JavaScript.
-- Technologies/Framework: HTML5, CSS3, Spring Boot.
-- Developer Tools: VS Code, Eclipse, MySQL, Git and GitHub.
+- **Languages**: `Java`, `SQL`, `JavaScript`
+- **Technologies/Frameworks**: `HTML5`, `CSS3`, `Spring Boot`
+- **Developer Tools**: `VS Code`, `Eclipse`, `MySQL`, `Git`, `GitHub`
 
-### PROJECTS
 #### FULLSTACK EMPLOYEE MANAGEMENT SYSTEM
- • Designed and developed a full-stack application to manage employee records, demonstrating strong design and
+ - Designed and developed a full-stack application to manage employee records, demonstrating strong design and
  development principles using Java and Spring Framework.
- • Implemented core functionalities such as adding, deleting, and retrieving employees by ID, using Database to
+ - Implemented core functionalities such as adding, deleting, and retrieving employees by ID, using Database to
  optimize performance.
- • Developed and integrated RESTful APIs using Spring Boot to enable seamless communication between the frontend
+ - Developed and integrated RESTful APIs using Spring Boot to enable seamless communication between the frontend
  and backend, ensuring efficient data exchange and scalability.
- • Followed software engineering best practices, including version control (Git), debugging, and testing, to deliver a
+ - Followed software engineering best practices, including version control (Git), debugging, and testing, to deliver a
  reliable and maintainable solution.
 
  #### DEPTSPHERE- DEPARTMENT MANAGEMENT SYSTEM
- • Developed a centralized web-based platform to streamline department operations, enhancing staff availability
+ - Developed a centralized web-based platform to streamline department operations, enhancing staff availability
  tracking, complaint management, and achievement sharing. The system improves communication, transparency, and
  efficiency by integrating role-based authentication, real-time status updates, and secure database management. .
- • Implemented role-based access control (RBAC) for students, faculty, and administrators, developed a structured
+ - Implemented role-based access control (RBAC) for students, faculty, and administrators, developed a structured
  complaint management system for direct issue resolution, integrated real-time staff availability tracking to improve
  communication.
- • Designed a dynamic achievement-sharing module to recognize accomplishments, used Hibernate & JPA for
+ - Designed a dynamic achievement-sharing module to recognize accomplishments, used Hibernate & JPA for
  optimized database interactions, and deployed the system on a cloud-based server for live accessibility.
 
  ### CERTIFICATIONS
